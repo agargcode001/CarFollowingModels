@@ -1,0 +1,8 @@
+Vehicles,Max power (kW),Drive-Fuel,Engine displacement (cc),Battery capacity (kWh),Propulsion type ,Top speed (km/h),Model year,Length(in m)
+Hyundai (Ioniq hybrid),104,gasoline,1580,1.56,HEV ,185,2018,4.47
+Mitsubishi (SpaceStar),59,gasoline,1193,-,ICE,173,2018,3.795
+KIA (Niro),77.2,gasoline,1580,8.9,PHEV,172,2019,4.355
+Mitsubishi (Outlander PHEV),99,gasoline,2360,12,PHEV,170,2018,4.655
+Peugeot (5008 GT Line),130,diesel,1997,-,ICE,208,2018,4.641
+VW (Golf E),100,electricity,-,35.8,BEV,150,2018,4.075
+Mini (Cooper),100,gasoline,1499,-,ICE,210,2018,3.821
